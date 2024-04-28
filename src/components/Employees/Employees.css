@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    width: 100vw;
+}
+
+.flex-wrap{
+    flex-wrap: wrap !important;
+    gap: 2rem;
+}
+.d-flex{
+    display: flex !important;
+}
+.m-4{
+    margin: 1rem !important;
+}
+.card-img-top{
+    border: 1px solid gray;
+    width: 100%;
+}
+table{
+    border: 1px solid black;
+    border-spacing: 2px;
+}
